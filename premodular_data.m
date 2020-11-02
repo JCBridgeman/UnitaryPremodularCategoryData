@@ -1,5 +1,9 @@
 (* ::Package:: *)
 
+(* ::Text:: *)
+(*Fusion rings obtained from http://www.thphys.nuim.ie/AnyonWiki/index.php/List_of_small_multiplicity-free_fusion_rings*)
+
+
 Switch[model[[1]],
 FR[2,0][1],
 obs=Range[0,1];unit=0;
